@@ -10,4 +10,12 @@ Experiencia en Python para análisis exploratorio, visualización y automatizaci
 - Análisis exploratorio de datos (EDA)
 
 ## 📊 Proyectos
-Próximamente.
+
+### Customer Support Analytics – TeleCom LatAm
+Análisis de interacciones de atención al cliente en Twitter para evaluar tiempos de respuesta,
+comportamiento del usuario y métricas de experiencia de cliente.
+
+🔗 [Ver proyecto](https://github.com/tu-usuario/customer-support-analytics)
+
+### Otros
+- Próximamente.
