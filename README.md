@@ -15,7 +15,7 @@ Experiencia en Python para análisis exploratorio, visualización y automatizaci
 Análisis de interacciones de atención al cliente en Twitter para evaluar tiempos de respuesta,
 comportamiento del usuario y métricas de experiencia de cliente.
 
-🔗 [Ver proyecto](https://github.com/tu-usuario/customer-support-analytics)
+🔗 [Ver proyecto](https://github.com/alexander-toledo-portfolio/customer-support-analytics.git)
 
 ### Otros
 - Próximamente.
